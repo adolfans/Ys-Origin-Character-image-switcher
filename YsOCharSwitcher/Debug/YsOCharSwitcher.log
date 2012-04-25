@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\visual studio 2010\projects\ysocharswitcher\ysocharswitcher\main.cpp(44): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+e:\visual studio 2010\projects\ysocharswitcher\ysocharswitcher\main.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+  YsOCharSwitcher.vcxproj -> E:\Visual Studio 2010\Projects\YsOCharSwitcher\Debug\YsOCharSwitcher.exe
